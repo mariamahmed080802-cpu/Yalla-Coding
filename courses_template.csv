@@ -1,0 +1,21 @@
+id,parent_id,title,subtitle,color,link
+bac2,, «‰Ì… »ﬂ«·Ê—Ì«,«·„”«— «·‰Ÿ—Ì Ê«·⁄„·Ì,#16324F,
+theory,bac2,‰Ÿ—Ì,,,
+ai,theory,AI,,,
+ai_1,ai,Sheet 1,,,https://youtu.be/H4J-NUOQ2xc?si=RvHHKdQISERPD9lM
+ai_2,ai,Sheet 2,,,https://docs.google.com/spreadsheets/d/example2
+ai_3,ai, „«—Ì‰,,,https://docs.google.com/spreadsheets/d/example3
+cybersecurity,theory,Cybersecurity,,,
+cy_1,cybersecurity,Sheet 1,,,https://docs.google.com/spreadsheets/d/example4
+cy_2,cybersecurity,Sheet 2,,,https://docs.google.com/spreadsheets/d/example5
+webdev,theory,Web Development,,,
+wd_1,webdev,Sheet 1,,,https://docs.google.com/spreadsheets/d/example6
+wd_2,webdev,Sheet 2,,,https://docs.google.com/spreadsheets/d/example7
+wd_3,webdev,„‘—Ê⁄ ‰Â«∆Ì,,,https://docs.google.com/spreadsheets/d/example8
+practical,bac2,⁄„·Ì,,,
+prac_1,practical,„‘—Ê⁄ 1,,,https://docs.google.com/spreadsheets/d/example9
+prac_2,practical,„‘—Ê⁄ 2,,,https://docs.google.com/spreadsheets/d/example10
+sec1,,«Ê·Ï À«‰ÊÌ,«·„Õ ÊÏ «·√”»Ê⁄Ì,#2E6B5E,
+week1,sec1,«·√”»Ê⁄ 1,,,https://docs.google.com/spreadsheets/d/example11
+week2,sec1,«·√”»Ê⁄ 2,,,https://docs.google.com/spreadsheets/d/example12
+week3,sec1,«·√”»Ê⁄ 3,,,https://docs.google.com/spreadsheets/d/example13
